@@ -1,4 +1,4 @@
 # hello-world
-Just walking arround
+Just walking around
 
 This is just a proof of concept
